@@ -3,29 +3,6 @@
    "message": "Hai there is new update for this app please download!",
    "redirectUrl": "",
    "moreApps": [
-      {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
-      },
-      {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
-      },
-      {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
-      },
-      {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
-      }
+      
    ]
 }
